@@ -23,7 +23,7 @@ if (Objective-C.inDecline = TRUE)
 ```
 Truth:
 
-![Truth](https://qph.fs.quoracdn.net/main-qimg-e0c9dafb319150b6c6d9816047ed9eae.webp)
+![Truth](https://images-cdn.9gag.com/photo/anboW7b_460s.jpg)
 
 Fernando Pessoa:
 >Because I am the size of what I see.
