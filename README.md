@@ -28,5 +28,10 @@ For myself, I three reminders I need to stay in a growth mindset:
 
 ## Repro Table to Contents
 
-1. 102 - Day 01 - 2020-14-13
+1. 102 - Day 01 - 2020-04-13
 * [Read 01 - Markdown](Class01-2020-04-13/Read01Markdown.md)
+* [Read 02 - Coder's Computer](Class01-2020-04-13/Read02CodersComputer.md)
+
+1. 102 - Day 02 - 2020-04-14
+* [Table Test](Class02-2020-04-14/TableTest.md)
+* [Test](Class02-2020-04-14/Test.md)
