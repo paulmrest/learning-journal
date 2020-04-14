@@ -34,6 +34,6 @@ For myself, I three reminders I need to stay in a growth mindset:
 * [Read 02 - Coder's Computer](Class01-2020-04-13/Read02CodersComputer.md)
 
 1. 102 - Day 02 - 2020-04-14
-* [Notes](Class02-2020-04-14/Notes.md)
-* [Table Test](Class02-2020-04-14/TableTest.md)
-* [Test](Class02-2020-04-14/Test.md)
+* [Notes](./Class02-2020-04-14/Notes.md)
+* [Table Test](./Class02-2020-04-14/TableTest.md)
+* [Test](./Class02-2020-04-14/Test.md)
