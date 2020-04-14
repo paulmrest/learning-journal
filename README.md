@@ -25,3 +25,8 @@ For myself, I three reminders I need to stay in a growth mindset:
 * Permission to be bad at something at first.
 * Seek help and guidance from others.
 * Find motivation in other's success.
+
+## Repro Table to Contents
+
+1. 102 - Day 01 - 2020-14-13
+* [Read 01 - Markdown](Class01-2020-04-13/Read01Markdown.md)
