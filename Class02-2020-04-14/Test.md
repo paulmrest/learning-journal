@@ -3,3 +3,5 @@
 Some body text. The best body text that ever was.
 
 New text added on GitHub site.
+
+New text added in VS Code.
