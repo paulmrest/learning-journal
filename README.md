@@ -1,29 +1,5 @@
-# learning-journal
-## Code Fellows 102 - Learning Journal
+# Code Fellows 102 - Learning Journal
 
-Unordered list:
-- Item one
-- Item two
+Hi There!
 
-Ordered list:
-1. Item one
-1. Item two
-
--| Good at Code? | Not Good at Code Yet?
---------|------------|-----------
-A Lot of Practice? | Congrats! | More practice!
-Not Much Practice? | Congrats! | More practice!
-
-
-``` Objective-C
-if (Objective-C.inDecline = TRUE)
-{
-  self.learnSwift();
-}
-```
-Truth:
-
-![Truth](https://images-cdn.9gag.com/photo/anboW7b_460s.jpg)
-
-Fernando Pessoa:
->Because I am the size of what I see.
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/21151248_10103127856966428_1471585133870514402_n.jpg?_nc_cat=104&_nc_sid=0debeb&_nc_ohc=BU-T5nS3eWoAX8urhCs&_nc_ht=scontent-sea1-1.xx&oh=3728c4a18ab582f89476fb8b63dce519&oe=5EBB8E3D" width="50%">
