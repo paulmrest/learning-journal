@@ -44,9 +44,10 @@ We're in need of *italics* to emphasize this point.
 
 Which render as:
 
-**This sentence is a bold one.**  
-This sentence is normal but it has a **bold** word.  
-We're in need of *italics* to emphasize this point.  
+**This sentence is a bold one.**/
+This sentence is normal but it has a **bold** word./
+We're in need of *italics* to emphasize this point./
+
 **This bold sentence needs even more emphasis on its *italics*.**
 
 See below for more information:
