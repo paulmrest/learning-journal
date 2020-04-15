@@ -38,3 +38,5 @@ For myself, I three reminders I need to stay in a growth mindset:
 * [Table Test](./Class02-2020-04-14/TableTest.md)
 * [Test](./Class02-2020-04-14/Test.md)
 * [Read 03 - Revisions and the Cloud](./Class02-2020-04-14/Read03RevisionsCloud.md)
+* [Lab 04 - Website from Scratch](https://paulmrest.github.io/Moon-Travel/)
+* [Read 04 -  Structure of Web Pages and hTML](./Class02-2020-04-14/Read04HTMLStructure.md)
