@@ -37,3 +37,4 @@ For myself, I three reminders I need to stay in a growth mindset:
 * [Notes](./Class02-2020-04-14/Notes.md)
 * [Table Test](./Class02-2020-04-14/TableTest.md)
 * [Test](./Class02-2020-04-14/Test.md)
+* [Read 03 - Revisions and the Cloud](./Class02-2020-04-14/Read03RevisionsCloud.md)
