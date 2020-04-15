@@ -2,7 +2,7 @@
 
 ## Summaries from Jon Duckett's book, "HTML & CSS":
 
-## Chatper 1 - Structure:
+## Chapter 1 - Structure:
 HTML (hypertext markup language) is a formatting language that is used to describe the *structure* of a web page. It consists of content (what a user sees) between opening and closing *tags*, and these tags are what tell a web browser how to display the content. An opening tag, its closing tag, and the content between the two is known as an *element*. Tags frequently describe different elements in a web page, such as `<header>`, `<body>`, and `<footer>`, which organize and encompass other tags (like `<p>` for paragraph, and `<a>` for hyperlink).
 
 ## Chapter 8 - Extra Markup:
