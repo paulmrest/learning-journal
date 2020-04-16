@@ -41,3 +41,6 @@ I largely want to enjoy my time on this planet, and help my species and those ar
 * [Read 05 - Design Web Pages with CSS](./Class03-2020-04-15/Read05-DesignWebPagesWithCSS.md)
 * [Read 06a - Dynamic Web Pages with Javascript](./Class03-2020-04-15/Read06a-DynamicPagesJavascript.md)
 * [Read 06b - Computer Architecture and Logic](./Class03-2020-04-15/Read06b-ComputerArchitectureLogic.md)
+
+1. 102 - Day 04 - 2020-04-16
+* [Read 07 - Programming with JavaScript](./Class04-2020-04-16/Read07-ProgrammingWithJS.md)
