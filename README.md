@@ -43,3 +43,5 @@ For myself, I three reminders I need to stay in a growth mindset:
 
 1. 102 - Day 03 - 2020-04-15
 * [Read 05 - Design Web Pages with CSS](./Class03-2020-04-15/Read05-DesignWebPagesWithCSS.md)
+* [Read 06a - Dynamic Web Pages with Javascript](./Class03-2020-04-15/Read06a-DynamicPagesJavascript.md)
+* [Read 06b - Computer Architecture and Logic]()

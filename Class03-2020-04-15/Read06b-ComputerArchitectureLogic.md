@@ -1,0 +1,9 @@
+# Computer Architecture and Logic
+
+## Summary of the Code.org Video Series [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
+Of the topics covered here, the three ones I think would be most important for someone interested in computers and coding but who doesn't know these topics are as follows:
+
+* A computer is really *any* system capable of having information inputted, processing that information, storing it, and outputing some result. You could build a computer out of buckets of water, or Turing's hypothetical machines with their paper tapes. What makes modern computers as capable as they are is the speed at which they are capable of these steps, presently at billions of times per second.
+* Modern computers have accomplished this speed through minaturization, fitting millions of logic machines that manipulate data onto small silicon wafers, called a **central processing unit** (CPU). Each of these logic machines is composed of one or more logic gates, wich each gate performing a comparatively simple operation on one or more pieces of data. Data is pushed to different logic machines on the CPU, processed in some way, and then the result is stored, billions of times a second. And a modern computer can have multiple CPUs.
+* Software is how humans tell a computer what to do. Code can be the binary sequences contemporary computers use to represent data, machine code (the explicit operations that tell the memory and CPU how to interact), or modern, high-level programming languages. Modern software is almost entirely written in high-level languages, which are relatively easy to read, understand, and write. However we have accomplished these high-level languages through abstraction, and all high-level software needs to **compiled** into machine language (although some languages compile differently).
