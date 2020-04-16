@@ -8,6 +8,8 @@ My name is Paul and I've been dabbling in coding since 2011. In 2015 I managed t
 
 [Link to an archive of my app, Flounds.](http://flounds.appstor.io/ "Link to an archive of my app, Flounds.")
 
+[Flounds GitHub Repro](https://github.com/paulmrest/Flounds)
+
 I'm presently enrolled in Code Fellows's 102 level class, and scheduled to complete 401 on 9/11/2020. I am looking forward to finally learning to be a full stack developer and get my career in software dev underway.
 
 Outside of development and computer science in general, I enjoy reading and writing, and the great outdoors of the Pacific Northwest (bicycling for commuting and sport, hiking, skiing, etc...). I also have a deep abiding love of astronomy and astrophysics, and someday would like to get back into amateur astronomy (the light pollution of Pugetopolis made my light bucket of a telescope rather useless).
@@ -17,16 +19,10 @@ I largely want to enjoy my time on this planet, and help my species and those ar
 > so ephemeral... it arouses such a bittersweet,
 > almost heartbreaking fondness.
 
-## Growth Mindset
-
-The core of growth mindset, for me, is a rejection of the idea that skills, capabilities, and capacities are static, or even *that* difficult to change. With motivation and validation (positive reinforcement), anyone can buid any skillset, and expand both their capabilities and capacities.
-
-For myself, I three reminders I need to stay in a growth mindset:
-* Permission to be bad at something at first.
-* Seek help and guidance from others.
-* Find motivation in other's success.
-
 ## Repro Table to Contents
+
+1. General Pages
+* [Growth Mindset](./GeneralGuides/GrowthMindset.md)
 
 1. 102 - Day 01 - 2020-04-13
 * [Notes](./Class01-2020-04-13/Notes.md)
