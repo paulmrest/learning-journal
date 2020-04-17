@@ -44,3 +44,4 @@ I largely want to enjoy my time on this planet, and help my species and those ar
 
 1. 102 - Day 04 - 2020-04-16
 * [Read 07 - Programming with JavaScript](./Class04-2020-04-16/Read07-ProgrammingWithJS.md)
+* [Read 08 - Operations and Loops](./Class04-2020-04-16/Read08-OperationsLoops)
