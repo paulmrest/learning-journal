@@ -69,14 +69,14 @@ while (count <= 10)
 
 Both of which would display the same output:
 
-> We're going to count to 10!
-> Counting to 10, presently at: 1
-> Counting to 10, presently at: 2
-> Counting to 10, presently at: 3
-> Counting to 10, presently at: 4
-> Counting to 10, presently at: 5
-> Counting to 10, presently at: 6
-> Counting to 10, presently at: 7
-> Counting to 10, presently at: 8
-> Counting to 10, presently at: 9
-> Counting to 10, presently at: 10
+We're going to count to 10!  
+Counting to 10, presently at: 1  
+Counting to 10, presently at: 2  
+Counting to 10, presently at: 3  
+Counting to 10, presently at: 4  
+Counting to 10, presently at: 5  
+Counting to 10, presently at: 6  
+Counting to 10, presently at: 7  
+Counting to 10, presently at: 8  
+Counting to 10, presently at: 9  
+Counting to 10, presently at: 10  
